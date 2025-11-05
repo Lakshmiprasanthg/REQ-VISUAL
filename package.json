@@ -1,0 +1,26 @@
+{
+  "name": "ai-data-visualizer",
+  "version": "1.0.0",
+  "description": "AI-powered data visualization tool using DeepSeek AI and Chart.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "data-visualization",
+    "deepseek",
+    "chart.js",
+    "csv"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.28.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
