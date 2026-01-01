@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Data Visualizer
+# 🤖 AI-Powered Data Visualizer[on developing process]
 
 Transform natural language queries into beautiful data visualizations using AI! This web application allows users to upload CSV files and create charts simply by describing what they want to see in plain English.
 
@@ -206,3 +206,4 @@ If you encounter any issues or have questions, please check the troubleshooting 
 ---
 
 **Made with ❤️ using DeepSeek AI, Chart.js, and Node.js**
+
